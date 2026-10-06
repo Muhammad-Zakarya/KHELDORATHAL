@@ -1,4 +1,4 @@
-# KELDORATHAL - Software Development Studio
+# KELDORATHAL - Software Developers
 
 **KELDORATHAL** is a full-stack software development company & freelancing web platform founded and led by **Muhammad Zakarya** (Founder & Full-Stack Web Developer).
 
@@ -7,4 +7,4 @@ Built with **Next.js App Router**, **React**, **JavaScript**, **Tailwind CSS**, 
 ---
 
 ## 📜 License & Copyright
-© {new Date().getFullYear()} **KELDORATHAL**. Founded by **Muhammad Zakarya**. All rights reserved.
+ **KELDORATHAL**. Founded by **Muhammad Zakarya**. All rights reserved.
